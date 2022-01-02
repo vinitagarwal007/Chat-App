@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "87042758870",
+    "firebase_url": "https://chat-ap-8e1a0.firebaseio.com",
+    "project_id": "chat-ap-8e1a0",
+    "storage_bucket": "chat-ap-8e1a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87042758870:android:1b42764419b2f334de9177",
+        "android_client_info": {
+          "package_name": "com.vinitagarwal.chatap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "87042758870-ue0ekegv1qk87l3j0moc13qp8r8620ji.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr3S3v4aQj8VqJKTnf3TtAEWmNCebZZB4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "87042758870-ue0ekegv1qk87l3j0moc13qp8r8620ji.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_margin="15dp">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:background="@drawable/roundedcornerreceived"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/nametxt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_marginStart="15dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginEnd="15dp"
+            android:layout_marginRight="15dp"
+            android:maxWidth="200dp"
+            android:padding="8dp"
+            android:text="Name"
+            android:textColor="#000000"
+            android:textSize="12dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/itemreceivedmsg"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_marginStart="15dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginEnd="15dp"
+            android:layout_marginRight="15dp"
+            android:layout_marginBottom="15dp"
+            android:maxWidth="200dp"
+            android:paddingLeft="8dp"
+            android:text="Test Sent Message For Max Width"
+            android:textColor="#ffffff"
+            android:textSize="16dp"
+            android:textStyle="bold" />
+    </LinearLayout>
+</RelativeLayout>
